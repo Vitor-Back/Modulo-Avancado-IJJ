@@ -4,4 +4,4 @@ for i in range (0, 100):
     if resto == 0:
         print(f"Par: {i}")
     else:
-        print(f"Inpar: {i}")
+        print(f"Impar: {i}")
