@@ -26,4 +26,4 @@ for indice, integrante in enumerate(dado_integrantes):
 
     data = response.json()
 
-    print(f'Nome:', integrante['Integrante'], '\nCidade:', data['localidade'],"\n""########################")
+    print(f'Nome:', integrante['Integrante'], '\nCidade:', data['localidade'], "/", data["uf"],"\n" "DDD:", data["ddd"], "\n""########################")
