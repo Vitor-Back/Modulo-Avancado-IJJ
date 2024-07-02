@@ -1,0 +1,22 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de compilação
+*.o
+*.a
+*.so
+
+# Ignorar diretórios de build
+/build/
+
+# Ignorar arquivos de configuração específicos de IDEs
+.idea/
+.vscode/
+
+# Ignorar arquivos temporários do sistema operacional
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de ambiente virtual do Python
+venv/
