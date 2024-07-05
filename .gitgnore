@@ -5,7 +5,7 @@
 *.o
 *.a
 *.so
-
+*.csv
 # Ignorar diretórios de build
 /build/
 
