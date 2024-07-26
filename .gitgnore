@@ -19,4 +19,4 @@
 Thumbs.db
 
 # Ignorar arquivos de ambiente virtual do Python
-venv/
+Virtual/
